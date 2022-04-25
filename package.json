@@ -9,7 +9,7 @@
 	"author": "Dawid Lubowiecki",
 	"license": "MIT",
 	"dependencies": {
-		"@typescript-eslint/parser": "^5.17.0",
+		"@typescript-eslint/parser": "^5.18.0",
 		"confusing-browser-globals": "^1.0.11",
 		"eslint-plugin-import": "^2.25.4",
 		"object.assign": "^4.1.2",
