@@ -1,6 +1,6 @@
 {
 	"name": "@lubowiecki/eslint-config-base",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "ESLint config",
 	"main": "index.js",
 	"keywords": [
@@ -9,14 +9,14 @@
 	"author": "Dawid Lubowiecki",
 	"license": "MIT",
 	"dependencies": {
-		"@typescript-eslint/parser": "^5.23.0",
+		"@typescript-eslint/parser": "^5.30.0",
 		"confusing-browser-globals": "^1.0.11",
 		"eslint-plugin-import": "^2.26.0",
 		"object.assign": "^4.1.2",
 		"object.entries": "^1.1.5",
-		"typescript": "^4.6.4"
+		"typescript": "^4.7.4"
 	},
 	"peerDependencies": {
-		"eslint": "^8.15.0"
+		"eslint": "^8.18.0"
 	}
 }

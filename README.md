@@ -28,7 +28,6 @@ ng add @angular-eslint/schematics
 
 ```
 {
-  "typescript.referencesCodeLens.enabled": true,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
